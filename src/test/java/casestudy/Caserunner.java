@@ -8,8 +8,8 @@ import cucumber.api.junit.Cucumber;
 
 
 @RunWith(Cucumber.class)
-//@CucumberOptions(monochrome=true)
-@CucumberOptions(tags="@sanity")
+@CucumberOptions(monochrome=true)
+//@CucumberOptions(tags="@sanity")
 public class Caserunner {
 
 }
